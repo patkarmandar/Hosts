@@ -31,10 +31,10 @@ Curated and well-maintained hosts files to block social media, trackers, porn si
 
 | Hosts | Contains | RAW Links |
 | --- | --- | --- |
-| Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/patkarmandar/hosts/main/porn.txt) |
-| Extreme | miui and microsoft's windows trackers + reporting domains + WebRTC Trackers + Canvas Fingerprinting Pages + Canvas Font Fingerprinting + Audio Fingerprinting + NSA Blocklist | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/extreme.txt) |
-| China | wechat, weibo, qq, yy, renren, baidu | [link](https://raw.githubusercontent.com/patkarmandar/hosts/main/china.txt) |
-| Annoyance (My Personal Hosts) | refer hostlist | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/annoyance.txt) |
+| Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/patkarmandar/hosts/main/Packs/porn.txt) |
+| Extreme | miui and microsoft's windows trackers + reporting domains + WebRTC Trackers + Canvas Fingerprinting Pages + Canvas Font Fingerprinting + Audio Fingerprinting + NSA Blocklist | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/Packs/extreme.txt) |
+| China | wechat, weibo, qq, yy, renren, baidu | [link](https://raw.githubusercontent.com/patkarmandar/hosts/main/Packs/china.txt) |
+| Annoyance (My Personal Hosts) | refer hostlist | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/Packs/annoyance.txt) |
 
 *Note: Extreme hostlist may break some pages.*
 
