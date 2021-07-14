@@ -1,0 +1,94 @@
+# Repo: https://github.com/patkarmandar/Hosts
+
+# === LOCAL HOST === #
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+# === START === #
+0.0.0.0 0.telegram.org
+0.0.0.0 1-www.telegram.org
+0.0.0.0 android.telegram.org
+0.0.0.0 api.telegram.org
+0.0.0.0 aurora-1.web.telegram.org
+0.0.0.0 aurora.web.telegram.org
+0.0.0.0 b.telegram.org
+0.0.0.0 bebuh.telegram.org
+0.0.0.0 blog.telegram.org
+0.0.0.0 core.telegram.org
+0.0.0.0 deactive.telegram.org
+0.0.0.0 dektop.telegram.org
+0.0.0.0 desctop.telegram.org
+0.0.0.0 deskpot.telegram.org
+0.0.0.0 desktop.telegram.org
+0.0.0.0 desktup.telegram.org
+0.0.0.0 destop.telegram.org
+0.0.0.0 download.telegram.org
+0.0.0.0 e.telegram.org
+0.0.0.0 eb.telegram.org
+0.0.0.0 eweb.telegram.org
+0.0.0.0 flora-1.web.telegram.org
+0.0.0.0 flora.web.telegram.org
+0.0.0.0 gbot.integrations.telegram.org
+0.0.0.0 gdfgd.telegram.org
+0.0.0.0 get.telegram.org
+0.0.0.0 httpsdesktop.telegram.org
+0.0.0.0 im.telegram.org
+0.0.0.0 instantview.telegram.org
+0.0.0.0 instaview.telegram.org
+0.0.0.0 integrations.telegram.org
+0.0.0.0 internet.telegram.org
+0.0.0.0 ipv8.telegram.org
+0.0.0.0 ivwebcontent.telegram.org
+0.0.0.0 m.telegram.org
+0.0.0.0 macos.telegram.org
+0.0.0.0 mail.telegram.org
+0.0.0.0 maila11.telegram.org
+0.0.0.0 maila21.telegram.org
+0.0.0.0 mails11.telegram.org
+0.0.0.0 map.telegram.org
+0.0.0.0 me.telegram.org
+0.0.0.0 messenger.telegram.org
+0.0.0.0 mobile.telegram.org
+0.0.0.0 my.telegram.org
+0.0.0.0 net.telegram.org
+0.0.0.0 oauth.telegram.org
+0.0.0.0 osx.telegram.org
+0.0.0.0 pi.telegram.org
+0.0.0.0 pluto-1.web.telegram.org
+0.0.0.0 pluto.web.telegram.org
+0.0.0.0 ru.telegram.org
+0.0.0.0 stickers.telegram.org
+0.0.0.0 telegram.org
+0.0.0.0 ton.telegram.org
+0.0.0.0 translations.telegram.org
+0.0.0.0 v.telegram.org
+0.0.0.0 veb.telegram.org
+0.0.0.0 venus-1.web.telegram.org
+0.0.0.0 venus.web.telegram.org
+0.0.0.0 vesta-1.web.telegram.org
+0.0.0.0 vesta.telegram.org
+0.0.0.0 vesta.web.telegram.org
+0.0.0.0 wap.telegram.org
+0.0.0.0 we.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 wep.telegram.org
+0.0.0.0 win.telegram.org
+0.0.0.0 ww.telegram.org
+0.0.0.0 www.desktop.telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 www.wab.telegram.org
+0.0.0.0 xn--h1avi.telegram.org
+
+# === EOF === #
