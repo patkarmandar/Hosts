@@ -4,10 +4,10 @@ Bash script to create unified host file from multiple sources.
 
 ## Script Configuration :
 
-- `LOCAL_HOST` : local server to which request is redirected, set to `0.0.0.0` or `127.0.0.1` (default is `0.0.0.0`)
+- `LOCAL_HOST` : local server to which the request is redirected, set to `0.0.0.0` or `127.0.0.1` (default is `0.0.0.0`)
 - `OUTPUT_HOST` : output hosts-styled blocklist (default is `hosts.txt`)
-- `source.list` : plain text file from which hosts-styled sources is to be fetch
-- `source.domain` : plain text file from which only ip/domain sources is to be fetch
+- `source.list` : plain text file from which hosts-styled sources are to be fetch
+- `source.domain` : plain text file from which only ip/domain sources are to be fetch
 
 **NOTE -**
 - `source.list` : should have only host-styled format sources, Ex- `0.0.0.0 www.example.com`
@@ -16,11 +16,11 @@ Bash script to create unified host file from multiple sources.
 **To add local blocklist use `file://` URL**
 
 - Add hosts sources/links in `source.list` and `source.domain`, remember above noted points.
-- Add one source/link at each line
-- If list has only one entry then add extra empty line at end *(some issue with curl)*
-- Run `script.sh`
+- Add one source/link at each line.
+- If the list has only one entry, then add an extra empty line at the end. *(some issue with curl)*
+- Run `generate.sh`
 
-*(run script in empty folder to avoid issues)*
+*(run script in an empty folder to avoid issues.)*
 
 
 <br>
