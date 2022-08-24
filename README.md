@@ -2,23 +2,24 @@
 Bash script to create a uniq &amp; sorted hostlist from multiple sources.
 
 ## Configuration :
-- `LOCAL_HOST` : local server to which the request is redirected, set to `0.0.0.0` or `127.0.0.1` (default is `0.0.0.0`)
-- `OUTPUT_HOST` : output hosts-styled blocklist (default is `hosts.txt`)
-- `source.list` : plain text file from which hosts-styled sources are to be fetch
-- `source.domain` : plain text file from which only ip/domain sources are to be fetch
 
-**NOTE -**
-- `source.list` : should have only host-styled format sources, Ex- `0.0.0.0 www.example.com`
-- `source.domain` : should have only ip/domain format sources, Ex- `www.example.com`
+| Parameters | Info |
+| --- | --- |
+| `LOCAL_HOST` | local server to which the request is redirected (default: `0.0.0.0`) |
+| `OUTPUT_HOST` | output hosts-styled blocklist (default name: `hosts.txt`) |
+| `source.list` | plain text file from which hosts-styled sources are to be fetch |
+| `source.domain` | plain text file from which only ip/domain sources are to be fetch |
+
+**NOTE:**
+- `source.list` : should have only host-styled format sources. Ex: `0.0.0.0 www.example.com`
+- `source.domain` : should have only ip/domain format sources. Ex: `www.example.com`
 
 ## Usage :
 - Clone repo
-- Add hosts sources/links in `source.list` and `source.domain` per line *(remember above noted points)*
-- If the list has only one entry, then add an extra empty line at the end. *(some issue in script/curl)*
+- Add hosts sources/links in `source.list` and `source.domain` per line. *(remember above noted points)*
+- If the list has only one entry, then add an extra empty line at the end. *(some issue in script)*
 - Run `generate.sh`
 
-
-<br>
 
 # Hosts Lists
 Curated and well-maintained hostlists to block social media, trackers, porn sites &amp; ads.
@@ -40,3 +41,6 @@ Curated and well-maintained hostlists to block social media, trackers, porn site
 - [Fanboy Hosts](https://www.fanboy.co.nz)
 - [Energized.pro](https://energized.pro)
 - [LukeSmithxyz Hosts](https://github.com/LukeSmithxyz/etc)
+
+
+<p align="center" ><b>Made with <span style="color: red">&#9829;</span> by <a href="https://github.com/itspatkar">ItsPatkar</a></b></p>
