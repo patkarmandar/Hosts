@@ -1,5 +1,5 @@
 # Title: Instagram
-# Homepage: https://github.com/itspatkar/Hosts
+# Homepage: https://github.com/patkarmandar/Hosts
 
 # === LOCAL HOST === #
 127.0.0.1 localhost

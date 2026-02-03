@@ -26,14 +26,14 @@ Curated and well-maintained hostlists to block social media, trackers, porn site
 
 | Hosts | Recipe | RAW Link |
 | --- | --- | --- |
-| Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/itspatkar/hosts/main/LISTS/porn.txt) |
-| Trackers | MIUI + Microsoft Trackers | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/trackers.txt) |
-| Facebook | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/facebook.txt) |
-| Google | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/google.txt) |
-| Instagram | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/instagram.txt) |
-| Linkedin | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/linkedin.txt) |
-| Twitter | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/twitter.txt) |
-| WhatsApp | - | [link](https://raw.githubusercontent.com/itspatkar/Hosts/main/LISTS/whatsapp.txt) |
+| Porn | Porn Sites + Pornaway's Porn Sites + Porn Ads | [link](https://raw.githubusercontent.com/patkarmandar/hosts/main/LISTS/porn.txt) |
+| Trackers | MIUI + Microsoft Trackers | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/trackers.txt) |
+| Facebook | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/facebook.txt) |
+| Google | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/google.txt) |
+| Instagram | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/instagram.txt) |
+| Linkedin | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/linkedin.txt) |
+| Twitter | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/twitter.txt) |
+| WhatsApp | - | [link](https://raw.githubusercontent.com/patkarmandar/Hosts/main/LISTS/whatsapp.txt) |
 
 ## Credits For Sources :
 - [Steven Black Hosts](https://github.com/StevenBlack/hosts)
@@ -43,4 +43,4 @@ Curated and well-maintained hostlists to block social media, trackers, porn site
 - [LukeSmithxyz Hosts](https://github.com/LukeSmithxyz/etc)
 
 
-<p align="center" ><b>Made with <span style="color: red">&#9829;</span> by <a href="https://github.com/itspatkar">ItsPatkar</a></b></p>
+<p align="center" ><b>Made with <span style="color: red">&#9829;</span> by <a href="https://github.com/patkarmandar">patkarmandar</a></b></p>
